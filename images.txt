@@ -3,6 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 eclipse-temurin:8u462-b08-jre-jammy
+eclipse-temurin:8u462-b08-jre-alpine
 foxiswho/rocketmq:server-4.6.1
 foxiswho/rocketmq:broker-4.6.1
 styletang/rocketmq-console-ng
