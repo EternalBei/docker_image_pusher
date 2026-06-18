@@ -10,3 +10,5 @@ styletang/rocketmq-console-ng
 --platform=linux/arm64 xiaoyaliu/alist
 eclipse-temurin:8u462-b08-jre-alpine
 eclipse-temurin:8u462-b08-jre
+alpine:3.19
+golang:1.21-alpine
