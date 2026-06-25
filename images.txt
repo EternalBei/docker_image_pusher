@@ -12,3 +12,6 @@ eclipse-temurin:8u462-b08-jre-alpine
 eclipse-temurin:8u462-b08-jre
 alpine:3.19
 golang:1.21-alpine
+grafana/grafana:10.4.0
+grafana/grafana:2.9.4
+grafana/promtail:2.9.4
